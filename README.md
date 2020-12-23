@@ -25,7 +25,7 @@ Flowing retail simulates a very easy order fulfillment system. The business logi
 
 ## Concrete technologies/frameworks:
 
-* Java
+* Java(1.8!!!!!!!!)
 * Spring Boot
 * Spring Cloud Streams
 * Camunda
